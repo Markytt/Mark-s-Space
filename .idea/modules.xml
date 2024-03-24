@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ChessGame/ChessGame.iml" filepath="$PROJECT_DIR$/ChessGame/ChessGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Mark-s-Space.iml" filepath="$PROJECT_DIR$/.idea/Mark-s-Space.iml" />
+      <module fileurl="file://$PROJECT_DIR$/random projects/frozenyogurt/frozenyogurt.iml" filepath="$PROJECT_DIR$/random projects/frozenyogurt/frozenyogurt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/random projects/frozenyogurtpt2/frozenyogurtpt2.iml" filepath="$PROJECT_DIR$/random projects/frozenyogurtpt2/frozenyogurtpt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/random projects/payroll/payroll.iml" filepath="$PROJECT_DIR$/random projects/payroll/payroll.iml" />
       <module fileurl="file://$PROJECT_DIR$/random projects/random projects.iml" filepath="$PROJECT_DIR$/random projects/random projects.iml" />
     </modules>
   </component>
